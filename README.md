@@ -12,3 +12,8 @@ In order to set up the app🛠️
 ```bash/cmd
 git clone https://github.com/nameyahtabassum/Financial-Documents-Q-A-Assistant.git
 cd Financial-Documents-Q-A-Assistant
+```
+In order to use the app🤖
+1. After setting up the app, upload the PDF/Excel file
+2. Enter any question related to that document
+3. Click onto "Get Answer" button and you get all the information at the click of a button!
