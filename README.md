@@ -10,3 +10,5 @@ This is Streamlit-based application where users can upload PDFs/Excel Financial 
 In order to set up the app🛠️
 -1. Clone repository 
 ```bash/cmd
+git clone https://github.com/nameyahtabassum/Financial-Documents-Q-A-Assistant.git
+cd Financial-Documents-Q-A-Assistant
