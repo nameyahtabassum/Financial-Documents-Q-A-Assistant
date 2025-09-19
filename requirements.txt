@@ -1,0 +1,6 @@
+streamlit
+ollama
+fitz
+pandas
+PyMuPDF
+openpyxl
